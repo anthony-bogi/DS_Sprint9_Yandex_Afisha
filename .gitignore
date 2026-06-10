@@ -1,4 +1,4 @@
-# Виртуальное окружение
+# Venv
 env/
 venv/
 *.env
@@ -7,25 +7,25 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Файлы для кеширования
+# Python cache
 __pycache__/
 *.py[cod]
 
-# Файлы среды разработки
+# IDE
 .idea/
 .vscode/
 *.iml
 
-# Логи и временные файлы
+# Logs and temporary files
 *.log
 *.bak
 *.swp
 
-# Системные файлы
+# System Files
 Thumbs.db  # Windows
 .DS_Store  # macOS
 
-# Данные
+# Data
 *.csv
 *.xlsx
 *.parquet
