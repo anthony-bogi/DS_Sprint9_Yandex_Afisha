@@ -99,7 +99,7 @@ DB_NAME=your_database
 Подробные результаты представлены в ноутбуке:
 
 ```text
-Sprint8_project_Yandex_Afisha.ipynb
+Sprint9_project_Yandex_Afisha.ipynb
 ```
 
 ---
