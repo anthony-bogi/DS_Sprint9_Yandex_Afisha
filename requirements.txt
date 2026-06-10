@@ -1,0 +1,7 @@
+pandas>=1.2
+matplotlib>=3.3
+seaborn>=0.11
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+phik>=0.12
+python-dotenv>=1.0
